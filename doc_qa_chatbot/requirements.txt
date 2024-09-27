@@ -1,0 +1,12 @@
+# brew install cmake (call this command from Docker first, then install the required dependencies
+langchain_openai
+langchain_core
+python-dotenv
+streamlit
+langchain-community
+langserve
+fastapi
+uvicorn
+langchain-groq
+pypdf
+faiss-cpu
